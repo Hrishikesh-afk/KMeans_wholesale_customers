@@ -14,3 +14,4 @@ By applying **K-Means Clustering** on continuous spending categories, we identif
 | **7** | **Standard Retail Outlets** *(Convenience Stores)* | 6,139.81 | 4,981.65 | **7,745.97** | 838.49 | 2,762.65 | 390.11 |
 
 > **Note:** Values represent the mean spending per category per cluster, derived directly from `df_clean.groupby("Cluster").mean()`.
+<img width="561" height="413" alt="download" src="https://github.com/user-attachments/assets/4e04c8dc-96d2-4238-ad49-8d059128e7b0" />
